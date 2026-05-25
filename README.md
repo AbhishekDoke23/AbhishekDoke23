@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Doke;Data+Engineer+%7C+AWS+Cloud+Specialist;Building+Scalable+Data+Pipelines+%E2%9A%A1;PySpark+%7C+Medallion+Architecture+%7C+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Doke;Data+Engineer+%7C+AWS+Cloud+Specialist;Building+Scalable+Data+Pipelines+%E2%9A%A1;PySpark+%7C+Medallion+Architecture+%7C+Delta+Lake" alt="Typing SVG" />
 
 <br/>
 
@@ -16,12 +16,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering undergraduate** from Savitribai Phule Pune University (CGPA: **8.95/10**) with hands-on experience building **end-to-end data pipelines** and **ML microservices on AWS**.
+I'm a **Computer Engineering undergraduate** from Savitribai Phule Pune University (CGPA: **8.95/10**) with hands-on experience building **end-to-end data pipelines** and **cloud-native data infrastructure on AWS**.
 
 - 🔭 I build **serverless ETL pipelines** using AWS Glue, Step Functions, and PySpark
-- ☁️ Deep expertise in **AWS** — Lambda, SageMaker, S3, Athena, CloudWatch, SNS, IAM
-- 🤖 Passionate about **MLOps** — deploying Hugging Face models on SageMaker with REST APIs
-- 📐 Strong believer in **Medallion Architecture** (Bronze → Silver → Gold) for clean data lakes
+- ☁️ Deep expertise in **AWS** — Lambda, S3, Athena, Glue, CloudWatch, SNS, IAM, EC2
+- 🏗️ Strong believer in **Medallion Architecture** (Bronze → Silver → Gold) for clean data lakes
+- ⚡ Experience with **Databricks** — Delta Lake, PySpark optimisation, SCD Type 1 & 2
 - 🎓 **Oracle Cloud Certified** — AI Foundations & OCI Foundations (2025)
 - 📍 Based in Pune, Maharashtra, India
 
@@ -29,18 +29,24 @@ I'm a **Computer Engineering undergraduate** from Savitribai Phule Pune Universi
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Data Engineering
+### ☁️ AWS Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔢 Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🧠 ML & AI
-![SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 💻 Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +58,6 @@ I'm a **Computer Engineering undergraduate** from Savitribai Phule Pune Universi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -110,9 +115,7 @@ Enterprise-grade data lakehouse with **Bronze/Silver/Gold** layers, Star Schema,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoke23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FF9900&icon_color=FF9900&border_color=FF9900" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoke23&layout=compact&theme=dark&title_color=FF9900&border_color=FF9900" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekDoke23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FF9900&icon_color=FF9900&border_color=FF9900&hide_border=false" alt="Abhishek's GitHub Stats" />
 
 </div>
 
