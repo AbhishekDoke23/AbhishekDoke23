@@ -115,12 +115,6 @@ Enterprise-grade data lakehouse with **Bronze/Silver/Gold** layers, Star Schema,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekDoke23&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FF9900&icon_color=FF9900&border_color=FF9900&hide_border=false" alt="Abhishek's GitHub Stats" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=AbhishekDoke23&theme=dark&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&border=FF9900" alt="GitHub Streak" />
 
 </div>
